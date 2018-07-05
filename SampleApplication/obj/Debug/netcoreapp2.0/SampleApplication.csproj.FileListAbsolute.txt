@@ -1,0 +1,12 @@
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\bin\Debug\netcoreapp2.0\SampleApplication.deps.json
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\bin\Debug\netcoreapp2.0\SampleApplication.runtimeconfig.json
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\bin\Debug\netcoreapp2.0\SampleApplication.runtimeconfig.dev.json
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\bin\Debug\netcoreapp2.0\SampleApplication.dll
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\bin\Debug\netcoreapp2.0\SampleApplication.pdb
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\obj\Debug\netcoreapp2.0\SampleApplication.csprojResolveAssemblyReference.cache
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\obj\Debug\netcoreapp2.0\SampleApplication.csproj.CoreCompileInputs.cache
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\obj\Debug\netcoreapp2.0\SampleApplication.AssemblyInfoInputs.cache
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\obj\Debug\netcoreapp2.0\SampleApplication.AssemblyInfo.cs
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\obj\Debug\netcoreapp2.0\SampleApplication.dll
+D:\Development_Avecto\Project\SampleApplication\SampleApplication\obj\Debug\netcoreapp2.0\SampleApplication.pdb
